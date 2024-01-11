@@ -43,8 +43,9 @@ def retrieve_past_month_usage():
 
 
 # Example usage
-excel_residential_path = r"C:\Users\frank\Documents\python excel file\Residential.xlsx"
-excel_business_path = r"C:\Users\frank\Documents\python excel file\Business.xlsx"
+#download the excel file to read if necessary
+excel_residential_path = #this should be your stored excel file location (r"file path")
+excel_business_path = #this should be your stored excel file location (r"file path")
 requested_category = input("Enter the category (Residential/Business): ").title()
 
 if requested_category == "Residential":
