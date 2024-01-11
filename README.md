@@ -7,3 +7,5 @@ How to use:
   4. the final result is a comparison between the cost and usage in the previous month vs current month. So it compares the cost between December and January
 
 This is not the final product but a 75% done project
+
+See attached photo
