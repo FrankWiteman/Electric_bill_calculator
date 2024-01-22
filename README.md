@@ -6,6 +6,6 @@ How to use:
   3. If choice is not, Enter the unit used. this can be gotten by subtracting the previous month against the past month. i.e. if you are getting the units for december, subtract the meter reading of December from November to get the units used in December
   4. the final result is a comparison between the cost and usage in the previous month vs current month. So it compares the cost between December and January
 
-This is not the final product but a 75% done project
+This is the final product
 
 See attached photo
